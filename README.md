@@ -8,6 +8,10 @@ Therefore, I have build an end to end pipeline from custom scrapper to data clea
 (actor extraction and classification), NLP based Sentiment Analysis on Article and Actor level, LLM based Article level Framing Analysis.
 Finally, to conclude plotting visualizations to answer research questions.
 
+**Dataset Description:** Here due to the limitation of Github data uploading size that is 20-25 mb and my data is around 
+150mb. I have uploaded the datasets in small csvs.
+
+
 **Models and Libraries used:**
 **Models**
 XML RObertA (used for actor extraction)
