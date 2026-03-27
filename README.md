@@ -8,9 +8,9 @@ Therefore, I have build an end to end pipeline from custom scrapper to data clea
 (actor extraction and classification), NLP based Sentiment Analysis on Article and Actor level, LLM based Article level Framing Analysis.
 Finally, to conclude plotting visualizations to answer research questions.
 
-**Dataset Description:** Here due to the limitation of Github data uploading size that is 20-25 mb and my data is around 
-150mb. I have uploaded the datasets in small csvs.
-
+**Dataset Description:** Due to the limitation of Github data uploading size that is 20-25 mb, I was unable to 
+upload my whole dataset in one go, because my data is around 150mb. Hence, i have uploaded the datasets in small chunks
+(10 csvs - german_climate_news_dataset(1-10)). Before using just combine these csvs into one to utilise it in entire pipeline.
 
 **Models and Libraries used:**
 **Models**
